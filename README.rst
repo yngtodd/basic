@@ -20,7 +20,7 @@ BASIC
 
 
 
-Writing Basic in Python.
+Writing BASIC in Python.
 
 
 * Free software: BSD license
