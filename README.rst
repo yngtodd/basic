@@ -20,7 +20,7 @@ BASIC
 
 
 
-Writing BASIC in Python.
+Writing a BASIC interpreter in Python.
 
 
 * Free software: BSD license
